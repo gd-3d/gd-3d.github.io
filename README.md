@@ -10,7 +10,10 @@ _if you can see this, what the heck_
 # Bless Documentation
 
 ## Overview
-Bless is a powerful level editor addon for Blender, designed to streamline the creation of game levels and assets. It provides advanced tools for physics setup, collision management, and glTF export with game-specific extensions.
+Bless is a level editor addon for Blender, for the creation of game-ready levels and assets.
+
+It is primarily developed for Godot Engine. 
+_More than happy to support Unreal and Unity if you wish to contribute - let us know!_
 
 ## Installation
 
